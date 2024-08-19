@@ -39,7 +39,7 @@ Here’s a snapshot of my technical expertise:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRDa&layout=compact&theme=gruvbox)
 
 ## 📫 Contact Me
-- **Email:** [rohit.dogra@example.com](mailto:rohit.dogra@example.com)
-- **LinkedIn:** [linkedin.com/in/rohit-dogra](https://linkedin.com/in/rohit-dogra)
+- **Email:** [rohit.dogra@example.com](mailto:amarraj060@gmail.com)
+- **LinkedIn:** [[linkedin.com/in/rohit-dogra](https://linkedin.com/in/rohit-dogra](https://www.linkedin.com/in/rohit-dogra-r-da-47719a199/))
 
 Feel free to connect with me or explore my projects!
