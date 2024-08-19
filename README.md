@@ -40,6 +40,6 @@ Here’s a snapshot of my technical expertise:
 
 ## 📫 Contact Me
 - **Email:** [rohit.dogra@example.com](mailto:amarraj060@gmail.com)
-- **LinkedIn:** (https://linkedin.com/in/rohit-dogra](https://www.linkedin.com/in/rohit-dogra-r-da-47719a199/))
+- **LinkedIn:** (https://www.linkedin.com/in/rohit-dogra-r-da-47719a199/))
 
 Feel free to connect with me or explore my projects!
