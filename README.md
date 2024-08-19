@@ -1,5 +1,9 @@
 # Hello, I'm Rohit Dogra! 👋
 
+
+## Professional Summary 🚀
+I am an experienced Python Full Stack Developer with a robust background in web development using React, Flask/Django, and SQL. I excel in creating scalable web applications and am proficient in backend frameworks, cloud technologies (Azure, GCP, AWS), and Azure OpenAI implementations. My expertise includes collaborating with cross-functional teams, optimizing performance, and adhering to best practices. I am passionate about continuous learning and staying updated with the latest trends in web development.
+
 ## About Me 🚀
 I’m a dedicated Software Engineer with a passion for continuous learning and innovation. I thrive on exploring new technologies and developing impactful software solutions. Here’s a bit more about me:
 
