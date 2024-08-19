@@ -13,11 +13,31 @@ I’m a dedicated Software Engineer with a passion for continuous learning and i
 ## 🛠 Tech Stack 💡
 Here’s a snapshot of my technical expertise:
 
-- **Programming Languages:** Data Structures & Algorithms, C++, Java, NLP
-- **Web Development:** HTML, CSS, JavaScript
-- **Machine Learning:** Python, Jupyter, OpenCV
-- **Cloud & Databases:** Microsoft Azure, SQL, Operating Systems
-- **Tools:** Visual Studio Code, Sublime Text, PyCharm, Anaconda, Git, GitHub
+## Core Competencies 💡
+
+### **Full Stack Development**
+- **Languages:** Python, React, Flask, Django, HTML, CSS, JavaScript, TypeScript, SQL
+- **Frontend:** React, HTML, CSS, JavaScript, AJAX, jQuery
+- **Backend:** Python, Flask, Django, RESTful APIs, Microservices Architecture
+
+### **Cloud Technologies**
+- **Platforms:** Microsoft Azure, Azure OpenAI, GCP, AWS
+
+### **Database Management**
+- **Systems:** SQL, Oracle Database, MySQL, Microsoft SQL Server, GCP BigQuery
+
+### **Containerization**
+- **Tools:** Docker, Kubernetes
+
+### **Development Tools**
+- **Version Control & Collaboration:** Git, Bitbucket, Jira, Remedy BMC
+
+### **Agile Methodologies**
+- **Practices:** Scrum, Test-Driven Development (TDD)
+
+### **Others**
+- **Libraries:** Numpy, Pandas
+- **Machine Learning:** RAG implementation (Azure OpenAI)
 
 ## 🚀 Key Projects
 ### [Project 1: DBA Work Tracker](#)
